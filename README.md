@@ -15,7 +15,7 @@
 
 **Outputs:**  
 - Excel workbook in `.xlsx` format with multiple tabs covering raw data and cleaned data
-- Visualization in '.Pbix' format with with 7 different charts, slicer, 7 cards, and insights
+- Visualization in '.Pbix' and '.pdf' format with with 7 different charts, slicer, 7 cards, and insights
 - Presentation slides in `.pdf` format containing problem statement, objectives, data overview, findings, and recommendations.
 
 ## Datasets
